@@ -1,0 +1,22 @@
+#page1{
+    width: 360px;
+    height: 300px;
+}
+#images {
+    width: 37%;
+    float: left;
+    position: center;
+    left: -6px;
+}
+#images1 {
+    width = 37%;
+    float: left;
+    position: center;
+    right: 6px;
+}
+#words {
+    text-align: center;
+}
+#words1 {
+    text-align: center;
+}
